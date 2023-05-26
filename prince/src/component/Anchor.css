@@ -1,0 +1,17 @@
+#image{
+    width: 125px;
+    height: 85px;
+    border-radius: 4px;
+}
+
+#tagName-one{
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+#tagPost-one{
+    color: hsla(0,0%,100%,.5);
+    font-weight: bolder;
+    font-size: 11px;
+}

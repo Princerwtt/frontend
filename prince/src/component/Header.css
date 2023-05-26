@@ -1,0 +1,148 @@
+#header{
+    background-image: url('https://s.imgur.com/desktop-assets/desktop-assets/homebg.e52b5cdf24f83bcd55f9f1318855f2ef.png');
+    height: 430px;
+}
+.container-one{
+    text-align: center;
+    color: #aed8ea;
+}
+
+#exploreTags{
+    position: relative;
+    right: 452px;
+    color: darkgray;
+    font-weight: bolder;
+}
+
+#moreTags{
+    position: relative;
+    left: 452px;
+}
+
+#moreTags-one{
+    text-decoration: none;
+    color: darkgray;
+    font-weight: bolder;
+}
+#anchor{
+    display: grid;
+    grid-template-columns:auto auto auto auto auto auto auto auto;
+    justify-content: center;
+    position: relative;
+    top: 8px;
+}
+
+#a1{
+    background-color:rgb(50, 141, 103);
+    width: 125px;
+    height: 145px;
+    margin: 0px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: 0.4s;
+}
+#a1:hover{
+    transform: scale(1.1);
+}
+
+#a2{
+    transition: 0.4s;
+    background-color:rgb(93, 133, 195);
+    width: 125px;
+    height: 145px;
+    margin: 0px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+#a2:hover{
+    transform: scale(1.1);
+}
+#a3{
+    transition: 0.4s;
+    background-color:rgb(38, 59, 167);
+    width: 125px;
+    height: 145px;
+    margin: 0px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+#a3:hover{
+    transform: scale(1.1);
+}
+
+#a4{
+    transition: 0.4s;
+    background-color:rgb(43, 26, 90);
+    width: 125px;
+    height: 145px;
+    margin: 0px 10px;
+    text-decoration: none;
+    transition: 0.4s;
+    border-radius: 5px;
+}
+#a4:hover{
+    transform: scale(1.1);
+}
+#a5{
+    transition: 0.4s;
+    background-color:rgb(80, 83, 90);
+    width: 125px;
+    height: 145px;
+    margin: 0px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+#a5:hover{
+    transform: scale(1.1);
+}
+#a6{
+    transition: 0.4s;
+    background-color:rgb(99, 56, 117);
+    width: 125px;
+    height: 145px;
+    margin: 0px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+#a6:hover{
+    transform: scale(1.1);
+}
+#a7{
+    transition: 0.4s;
+    background-color:rgb(38, 96, 110);
+    width: 125px;
+    height: 145px;
+    margin: 0px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+#a7:hover{
+    transform: scale(1.1);
+}
+#a8{
+    transition: 0.4s;
+    background-color:rgb(96, 174, 187);
+    width: 125px;
+    height: 145px;
+    margin: 0px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+#a8:hover{
+    transform: scale(1.1);
+}
+
+#drop1{
+    position: relative;
+    left: 110px;
+    color: darkgray;
+    font-weight: bolder;
+}
+
+#drop2{
+    position: absolute;
+    right: 153px;
+    bottom: 200px;
+    color: darkgray;
+    font-weight: bolder;
+}

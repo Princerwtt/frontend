@@ -1,0 +1,9 @@
+#cont-one{
+    display: grid;
+    grid-template-columns:0.4fr 2fr 0.2fr 2fr 0.4fr;
+}
+
+#show-data{
+    width: 200px;
+    height: 200px;
+}
